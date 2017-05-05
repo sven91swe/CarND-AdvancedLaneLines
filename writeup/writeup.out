@@ -1,0 +1,13 @@
+\BOOKMARK [1][-]{section.1}{Camera Calibration}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Briefly state how you computed the camera matrix and distortion coefficients. Provide an example of a distortion corrected calibration image.}{section.1}% 2
+\BOOKMARK [1][-]{section.2}{Pipeline \(single images\)}{}% 3
+\BOOKMARK [2][-]{subsection.2.1}{Provide an example of a distortion-corrected image.}{section.2}% 4
+\BOOKMARK [2][-]{subsection.2.2}{Describe how \(and identify where in your code\) you used color transforms, gradients or other methods to create a thresholded binary image. Provide an example of a binary image result.}{section.2}% 5
+\BOOKMARK [2][-]{subsection.2.3}{Describe how \(and identify where in your code\) you performed a perspective transform and provide an example of a transformed image.}{section.2}% 6
+\BOOKMARK [2][-]{subsection.2.4}{Describe how \(and identify where in your code\) you identified lane-line pixels and fit their positions with a polynomial?}{section.2}% 7
+\BOOKMARK [2][-]{subsection.2.5}{Describe how \(and identify where in your code\) you calculated the radius of curvature of the lane and the position of the vehicle with respect to center.}{section.2}% 8
+\BOOKMARK [2][-]{subsection.2.6}{Provide an example image of your result plotted back down onto the road such that the lane area is identified clearly.}{section.2}% 9
+\BOOKMARK [1][-]{section.3}{Pipeline \(video\)}{}% 10
+\BOOKMARK [2][-]{subsection.3.1}{Provide a link to your final video output. Your pipeline should perform reasonably well on the entire project video \(wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!\).}{section.3}% 11
+\BOOKMARK [1][-]{section.4}{Discussion}{}% 12
+\BOOKMARK [2][-]{subsection.4.1}{Briefly discuss any problems / issues you faced in your implementation of this project. Where will your pipeline likely fail? What could you do to make it more robust?}{section.4}% 13
